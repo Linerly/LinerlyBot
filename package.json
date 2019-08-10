@@ -1,6 +1,6 @@
 {
-	"name": "Discord-Bot-Maker-Bot",
-	"author": "Robert Borghese",
+	"name": "LinerlyBot",
+	"author": "Linerly",
 	"main": "bot.js",
 	"version": "1.2.9",
 	"dependencies": {
